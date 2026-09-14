@@ -121,12 +121,12 @@ function Sidebar({
       <div className="sidebar-user">
 
         <div className="user-avatar">
-          DK
+          SM
         </div>
 
         <div className="user-info">
 
-          <strong>Deepak S
+          <strong>Swarna M
 
           </strong>
 
