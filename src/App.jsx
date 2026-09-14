@@ -24,7 +24,7 @@ import "./App.css";
 const initialStudents = [
   {
     id: "STU-001",
-    name: "Deepak kumar S",
+    name: "Swarna M",
     age: 21,
     course: "CSE - AIML",
     email: "Deepak@example.com",
