@@ -23,7 +23,7 @@ function Header({
         </p>
 
         <h2>
-          Good evening, Deepak
+          Good evening, Swarna
         </h2>
 
       </div>
