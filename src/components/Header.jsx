@@ -121,13 +121,13 @@ function Header({
         <div className="header-profile">
 
           <div className="header-avatar">
-            DK
+            SM
           </div>
 
           <div>
 
             <strong>
-              Deepak S
+              Swarna M
             </strong>
 
             <span>
