@@ -27,16 +27,16 @@ const initialStudents = [
     name: "Swarna M",
     age: 21,
     course: "CSE - AIML",
-    email: "Deepak@example.com",
+    email: "Swan@example.com",
     phone: "9876543210",
     status: "Active"
   },
   {
     id: "STU-002",
-    name: "Rahul Kumar",
+    name: "Rupesh Kumar",
     age: 20,
     course: "Computer Science",
-    email: "rahul@example.com",
+    email: "katpadiking@example.com",
     phone: "9876543211",
     status: "Active"
   },
